@@ -50,9 +50,12 @@ This repoistory has been designed to show step by step how to create a service p
 
 ![image](https://user-images.githubusercontent.com/45083490/133250500-c3fba1a8-4ba2-439a-88a8-9494509101b7.png)
 
+# Required values for Terraform using a Service Principle
 
 
-
-
+subscription_id = "00000000-0000-0000-0000-000000000000"
+client_id       = "00000000-0000-0000-0000-000000000000"
+client_secret   = "00000000-0000-0000-0000-000000000000"
+tenant_id       = "00000000-0000-0000-0000-000000000000"
 
 
