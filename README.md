@@ -32,7 +32,7 @@ This repoistory has been designed to show step by step how to create a service p
 
 ![image](https://user-images.githubusercontent.com/45083490/133249968-e78a98c7-c789-4b7b-8a1d-103a7dc4cc95.png)
 
-**Note: The secret will not display again if you forget to copy. You might need to create another secret. **
+- Note: The secret will not display again if you forget to copy. You might need to create another secret.
 
 7. Search for subscription in Azure search blade and select subscription 
 
@@ -51,11 +51,11 @@ This repoistory has been designed to show step by step how to create a service p
 ![image](https://user-images.githubusercontent.com/45083490/133250500-c3fba1a8-4ba2-439a-88a8-9494509101b7.png)
 
 # Required values for Terraform using a Service Principle
+- Note: Your client ID is also known as Application (client) ID
 
-
-subscription_id = "00000000-0000-0000-0000-000000000000"
-client_id       = "00000000-0000-0000-0000-000000000000"
-client_secret   = "00000000-0000-0000-0000-000000000000"
-tenant_id       = "00000000-0000-0000-0000-000000000000"
+subscription_id = "00000000-0000-0000-0000-000000000000" # View step 8 or 10 for example of where to get the value
+client_id       = "00000000-0000-0000-0000-000000000000" # View step 4 for example of where to get the value
+client_secret   = "00000000-0000-0000-0000-000000000000" # View step 6 for example of where to get the value
+tenant_id       = "00000000-0000-0000-0000-000000000000" # View step 4 for example of where to get the value
 
 
