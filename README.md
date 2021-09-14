@@ -20,7 +20,7 @@ This repoistory has been designed to show step by step how to create a service p
 
 ![image](https://user-images.githubusercontent.com/45083490/133249547-4f07b3ac-285a-4ef2-83a1-9296b08f765b.png)
 
-4. Note down the details on the next screen. You need Application ID and Tenant ID later when setting up the connection details
+4. Note down the details on the next screen. You need Application ID and Tenant ID later when setting up the terraform deployment connection via service principle
 
 ![image](https://user-images.githubusercontent.com/45083490/133249475-046789f1-be72-4409-aa95-7e1269e21ffb.png)
 
