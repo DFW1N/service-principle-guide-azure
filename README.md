@@ -53,9 +53,9 @@ This repoistory has been designed to show step by step how to create a service p
 # Required values for Terraform using a Service Principle
 - Note: Your client ID is also known as Application (client) ID
 
-subscription_id = "00000000-0000-0000-0000-000000000000" # View step 8 or 10 for example of where to get the value
-client_id       = "00000000-0000-0000-0000-000000000000" # View step 4 for example of where to get the value
-client_secret   = "00000000-0000-0000-0000-000000000000" # View step 6 for example of where to get the value
-tenant_id       = "00000000-0000-0000-0000-000000000000" # View step 4 for example of where to get the value
+- subscription_id = "00000000-0000-0000-0000-000000000000" # View step 8 or 10 for example of where to get the value
+- client_id       = "00000000-0000-0000-0000-000000000000" # View step 4 for example of where to get the value
+- client_secret   = "00000000-0000-0000-0000-000000000000" # View step 6 for example of where to get the value
+- tenant_id       = "00000000-0000-0000-0000-000000000000" # View step 4 for example of where to get the value
 
 
